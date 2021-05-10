@@ -1,3 +1,11 @@
+#
+# covid 19 research network
+# written by Armin Pournaki and Alexander Dejaco
+# in part funded by the European Open Science Cloud
+#
+# under GPL License
+#
+
 #!/usr/bin/env python
 
 """Returns lemmas and their respective part-of-speech from text.

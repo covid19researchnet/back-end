@@ -1,3 +1,11 @@
+#
+# covid 19 research network
+# written by Armin Pournaki and Alexander Dejaco
+# in part funded by the European Open Science Cloud
+#
+# under GPL License
+#
+
 import numpy as np
 from datetime import datetime
 import pandas as pd

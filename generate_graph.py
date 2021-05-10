@@ -1,3 +1,11 @@
+#
+# covid 19 research network
+# written by Armin Pournaki and Alexander Dejaco
+# in part funded by the European Open Science Cloud
+#
+# under GPL License
+#
+
 # import libraries
 import json
 import spacy

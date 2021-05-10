@@ -1,3 +1,11 @@
+#
+# covid 19 research network
+# written by Armin Pournaki and Alexander Dejaco
+# in part funded by the European Open Science Cloud
+#
+# under GPL License
+#
+
 def TopicModelVisualiser(lda_model, id2word, coherence_model_lda, corpus):
     
     import math

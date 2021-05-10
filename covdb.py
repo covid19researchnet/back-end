@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 
+#
+# covid 19 research network
+# written by Armin Pournaki and Alexander Dejaco
+# in part funded by the European Open Science Cloud
+#
+# under GPL License
+#
+
 import psycopg2
 import json
 import sys
