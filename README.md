@@ -17,6 +17,6 @@ Configuration:
 
 Run:
 * python3 main.py --help
-**   --create-database: deletes and recreates the psql database
-**   --fetch-data: fetches new data from medline biorxiv and arxiv
-**   --renew-topic-model: renews or creates the topic-model
+*   --create-database: deletes and recreates the psql database
+*   --fetch-data: fetches new data from medline biorxiv and arxiv
+*   --renew-topic-model: renews or creates the topic-model
