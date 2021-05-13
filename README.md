@@ -1,5 +1,6 @@
-# src_public
-public covid19research sourcecode
+# COVID-19 Research Network Back-End
+
+Fetches COVID-19 related articles from PubMed, medRxiv, bioRxiv and arXiv to a PSQL-database, computes LDA-topic model, creates d3js-compatible semantic network of the latest 1500 articles. 
 
 
 Prerequisites:
